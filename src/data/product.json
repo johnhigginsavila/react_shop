@@ -1,0 +1,44 @@
+[
+    {
+        "productId":1,
+        "productName":"Microwave oven",
+        "category":"Electronics",
+        "price":400,
+        "photo":"./pictures/microwave.jpg"
+    },
+    {
+        "productId":2,
+        "productName":"Television",
+        "category":"Electronics",
+        "price":500,
+        "photo":"./pictures/television.jpg"
+    },
+    {
+        "productId":3,
+        "productName":"Vacuum Cleaner",
+        "category":"Electronics",
+        "price":250,
+        "photo":"./pictures/vacuum-cleaner.png"
+    },
+    {
+        "productId":4,
+        "productName":"Table",
+        "category":"Furniture",
+        "price":150,
+        "photo":"./pictures/table.jpg"
+    },
+    {
+        "productId":5,
+        "productName":"Chair",
+        "category":"Furniture",
+        "price":100,
+        "photo":"./pictures/chair.jpg"
+    },
+    {
+        "productId":6,
+        "productName":"Almirah",
+        "category":"Furniture",
+        "price":120,
+        "photo":"./pictures/almirah.jpg"
+    }
+]
