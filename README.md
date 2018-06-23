@@ -20,3 +20,4 @@ features:
 5. can view product picture and price in the list and in the cart
 6. owner/ admin can set promos and discounts
 7. cart can show total price
+8. Editing
